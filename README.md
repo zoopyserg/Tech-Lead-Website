@@ -1,2 +1,1 @@
-# TechLead
- Tech Lead Website
+http://sergevinogradoff.me/
